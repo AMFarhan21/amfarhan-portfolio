@@ -23,7 +23,7 @@ const SKILLS = {
 const Skills = () => {
     return (
         <div className='max-w-screen-md mx-auto py-4'>
-            <div className='font-bold text-2xl sm:text-2xl text-left mb-2'>Skills</div>
+            <div className='font-bold text-2xl sm:text-2xl text-left'>Skills</div>
             <div className='grid grid-cols-2'>
                 <div>
                     <div className='font-bold text-lg mt-2 sm:text-xl text-left'>Language</div>
